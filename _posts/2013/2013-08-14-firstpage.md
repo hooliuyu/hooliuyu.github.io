@@ -1,10 +1,14 @@
-layout: post title: first page categories:
+---
+layout: post 
+title: first page 
+categories:
 
-Programming tags:
-dairy
+- Programming 
+- tags:
 - first page
+---
 
-第一次在github上写博客，这也是我第一篇博客，很有纪念意义，不过在线写真的很痛苦、
+第一次在github上写博客，这也是我第一篇博客，很有纪念意义，不过在线写真的很痛苦
 
 因为还没有配置好本地环境，所以现在只能这么将就着先用着。
 
