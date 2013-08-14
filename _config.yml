@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://geeklu.com
-author: 卢克
+url: http://hooliuyu.io
+author: 刘瑜
 pygments: true
 paginate: 24
