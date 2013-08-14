@@ -3,4 +3,4 @@ permalink: /:year/:month/:title/
 url: http://hooliuyu.io
 author: 刘瑜
 pygments: true
-paginate: 24
+paginate: 20
