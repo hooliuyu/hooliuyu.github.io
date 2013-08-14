@@ -8,9 +8,9 @@ categories:
 - New Friend
 
 ---
-if I get a ne friend 
+If I get a  friend 
 
-I Will give him(her) all my heart
+I will give him(her) all my heart
 
 
 
