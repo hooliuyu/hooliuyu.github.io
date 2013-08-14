@@ -3,10 +3,11 @@ layout :post
 title :New Friend
 categories:
 
--Programming
--tags:
--New Friend
+- Programming
+- tags:
+- New Friend
 
+---
 if I get a ne friend 
 
 I Will give him(her) all my heart
