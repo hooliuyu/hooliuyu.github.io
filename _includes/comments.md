@@ -1,8 +1,8 @@
 <section class="comment">
 
 <!--UY BEGIN -->
-<div id="uyan_fram"></div>
-<script type="text/javascript" src = "http://y2.uyan.cc/code/uyan.js? uid = 1832731"></script>
+<div id="uyan_frame"></div>
+<script type="text/javascript" src = "http://v2.uyan.cc/code/uyan.js? uid = 1832731"></script>
 
 <!--UY END -->
 
